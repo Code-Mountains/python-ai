@@ -1,1 +1,5 @@
-# More to come here
+# Requirements:
+```
+pip install google-api-python-client
+
+```
